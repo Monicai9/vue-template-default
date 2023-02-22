@@ -1,6 +1,9 @@
 {
   "name": "vue-template-default",
   "version": "0.1.0",
+  "description": "模块工程化配置",
+  "author": "Qi.Gao",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -39,5 +42,6 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ]
+  ],
+  
 }
